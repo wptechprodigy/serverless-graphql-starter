@@ -6,7 +6,8 @@
   "author": "Waheed Afolabi <waheed.freelancer16@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon"
+    "start": "nodemon",
+    "bundle": "cpx src/**/* functions/bundle"
   },
   "private": false,
   "dependencies": {
