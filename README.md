@@ -4,7 +4,7 @@
 
 ## Installation
 
-Clone the repo either using SSH or HTTPs and run either of the command below (I prefer `yarn` - no hard feelings 👍) to install dependencies:
+Clone the repo either using SSH or HTTPS and run either of the command below (I prefer `yarn` - no hard feelings 👍) to install dependencies:
 
 ```
 yarn
