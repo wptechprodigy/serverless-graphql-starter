@@ -9,7 +9,7 @@ const typeDefs = gql`
   }
 `;
 
-const resolver = {
+const resolvers = {
   Query: {
     introduce: () => 'I am a serverless template from Waheed Afolabi 😎.',
   },
@@ -17,7 +17,7 @@ const resolver = {
 
 // Create both factory functions (for serverless lambda and local)
 function createLamdbaServer() {
-  return new ApolloServer({
+  return new ApolloServerLambda({
     typeDefs,
     resolvers,
     introspection: true,
