@@ -1,4 +1,4 @@
-# Serverless-GraphQL-API-Netlify-Starter_Template
+# Serverless-GraphQL-API-Netlify-Starter-Template
 
 🔥 The basic template for setting up a serverless GraphQL API ready for deploy on Netlify 🔥
 
