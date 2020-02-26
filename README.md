@@ -30,6 +30,6 @@ npm run start
 
 This template is based on a tutorial [here](https://khalilstemmler.com/articles/tutorials/deploying-a-serverless-graphql-api-on-netlify/) by [@stemmlerjs](https://twitter.com/stemmlerjs) on  how to use both apollo-server and apollo-server-lambda to setup a server so that you can write your GraphQL resolvers and type definitions in one place, yet run GraphQL servers locally and serverlessly.
 
-Shoutout to [Khalil Stemmler](https://github.com/stemmlerjs) the Domain Driven Design (DDD) Advocate for the creating the awesome content.
+Shoutout to [Khalil Stemmler](https://github.com/stemmlerjs) the Domain Driven Design (DDD) Advocate for creating the awesome content.
 
 Checkout the [server](https://github.com/wptechprodigy/serverless-graphql-starter/blob/master/src/server.js) for how it works!
