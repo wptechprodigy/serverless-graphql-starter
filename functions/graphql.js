@@ -1,4 +1,4 @@
-const { createLamdbaServer } = require('../src/server');
+const { createLamdbaServer } = require('./bundle/server');
 
 const server = createLamdbaServer();
 
