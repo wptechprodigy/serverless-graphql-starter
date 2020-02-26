@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "Waheed Afolabi <waheed.freelancer16@gmail.com>",
   "license": "MIT",
-  "private": null,
+  "private": false,
   "dependencies": {
     "apollo-server": "^2.10.1",
     "apollo-server-lambda": "^2.10.1"
