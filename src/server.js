@@ -11,7 +11,7 @@ const typeDefs = gql`
 
 const resolvers = {
   Query: {
-    introduce: () => 'I am a serverless template from Waheed Afolabi 😎.',
+    introduce: () => 'I am a serverless template from Waheed Afolabi😎.',
   },
 };
 
