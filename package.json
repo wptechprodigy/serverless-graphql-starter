@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Waheed Afolabi <waheed.freelancer16@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
   "private": false,
   "dependencies": {
     "apollo-server": "^2.10.1",
