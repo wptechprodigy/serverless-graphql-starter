@@ -33,3 +33,8 @@ function createLocalServer() {
     playground: true,
   });
 }
+
+module.exports = {
+  createLamdbaServer,
+  createLocalServer,
+};
